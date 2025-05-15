@@ -598,8 +598,8 @@
 			}
 		},
 		"color": {
-			"background": "var(--wp--preset--color--base)",
-			"text": "var(--wp--preset--color--contrast)"
+			"background": "var(--wp--preset--color--dark-grey)",
+			"text": "var(--wp--preset--color--base)"
 		},
 		"elements": {
 			"button": {

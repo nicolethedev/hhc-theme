@@ -101,11 +101,11 @@
 				{
 					"fontFace": [
 						{
-							"fontFamily": "Arhivo",
+							"fontFamily": "Archivo",
 							"fontStyle": "normal",
-							"fontWeight": "200 800",
+							"fontWeight": "200",
 							"src": [
-								"file:./assets/fonts/Archivo-VariableFont_wdth,wght.woff2"
+								"file:./assets/fonts/archivo/archivo-200-normal.woff2"
 							]
 						}
 					],
@@ -157,6 +157,29 @@
 					"fontFamily": "Alumni Sans Pinstripe Italic, sans-serif",
 					"name": "Alumni Sans Pinstripe Italic",
 					"slug": "alumni-sans-pinstripe-italic"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Alumni Sans\"",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/alumni-sans/alumni-sans-700-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Alumni Sans\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/alumni-sans/alumni-sans-600-normal.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Alumni Sans\", sans-serif",
+					"name": "Alumni Sans",
+					"slug": "alumni-sans"
 				}
 			],
 			"fontSizes": [
